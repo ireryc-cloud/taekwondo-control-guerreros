@@ -1,1 +1,0 @@
-# taekwondo-control-guerreros
